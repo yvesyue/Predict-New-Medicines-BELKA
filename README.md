@@ -7,8 +7,6 @@ Focused on drug discovery by predicting molecular properties using transformer-b
 - Transformers and CNN hybrid models.
 - Rigorous cross-validation for robustness.
 
-## Results
-- Ranked in the top 12% globally.
 
 ## Data
 Data can be accessed on [Kaggle BELKA Dataset](https://www.kaggle.com/c/neurips-2024-predict-new-medicines/data).
