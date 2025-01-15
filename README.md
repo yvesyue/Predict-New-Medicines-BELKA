@@ -8,11 +8,13 @@ Focused on drug discovery by predicting molecular properties using transformer-b
 - Rigorous cross-validation for robustness.
 
 ## Chanllenge
-1. Unseen Data in Private Leaderboard:
+- Unseen Data in Private Leaderboard:
+
 The private leaderboard introduced molecular structures (building blocks) absent from both training and public validation datasets.
 This led to a significant leaderboard shakeup, highlighting the difficulty of generalization.
 
-2.Overfitting:
+- Overfitting:
+
 Public leaderboard performance did not always align with private leaderboard results, emphasizing the challenge of generalizing to unseen data.
 
 ## Key Takeaways
